@@ -1,0 +1,1 @@
+extern "C" _declspec(dllimport) int Multiple(int, int);

@@ -1,0 +1,14 @@
+﻿  FtpClient.cpp
+c:\users\lg\source\repos\socketclient\socketclient\ftpclient.cpp(71): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' 선언을 참조하십시오.
+c:\users\lg\source\repos\socketclient\socketclient\ftpclient.cpp(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\lg\source\repos\socketclient\socketclient\ftpclient.cpp(114): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 'strcat' 선언을 참조하십시오.
+c:\users\lg\source\repos\socketclient\socketclient\ftpclient.cpp(115): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 'strcat' 선언을 참조하십시오.
+c:\users\lg\source\repos\socketclient\socketclient\ftpclient.cpp(168): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1111): note: '_splitpath' 선언을 참조하십시오.
+c:\users\lg\source\repos\socketclient\socketclient\ftpclient.cpp(169): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 'strcat' 선언을 참조하십시오.
+  SocketClient.vcxproj -> C:\Users\lg\source\repos\SocketClient\Debug\SocketClient.exe

@@ -1,0 +1,7 @@
+C:\Users\lg\source\repos\CoffeMaker\CoffeMaker\bin\Debug\CoffeMaker.exe.config
+C:\Users\lg\source\repos\CoffeMaker\CoffeMaker\bin\Debug\CoffeMaker.exe
+C:\Users\lg\source\repos\CoffeMaker\CoffeMaker\bin\Debug\CoffeMaker.pdb
+C:\Users\lg\source\repos\CoffeMaker\CoffeMaker\obj\Debug\CoffeeMaker.csprojAssemblyReference.cache
+C:\Users\lg\source\repos\CoffeMaker\CoffeMaker\obj\Debug\CoffeeMaker.csproj.CoreCompileInputs.cache
+C:\Users\lg\source\repos\CoffeMaker\CoffeMaker\obj\Debug\CoffeMaker.exe
+C:\Users\lg\source\repos\CoffeMaker\CoffeMaker\obj\Debug\CoffeMaker.pdb

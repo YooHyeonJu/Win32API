@@ -1,0 +1,33 @@
+﻿  소스2.cpp
+소스2.obj : error LNK2019: __imp__CreateFontIndirectW@4 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__DeleteObject@4 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__GetStockObject@4 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__SelectObject@8 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__SetTextColor@8 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__TextOutW@20 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__wsprintfW 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__GetMessageW@16 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__TranslateMessage@4 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__DispatchMessageW@4 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__SendMessageW@16 외부 기호(참조 위치: "int __stdcall DialogProc(struct HWND__ *,unsigned int,unsigned int,long)" (?DialogProc@@YGHPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__DefWindowProcW@16 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__PostQuitMessage@4 외부 기호(참조 위치: "int __stdcall DialogProc(struct HWND__ *,unsigned int,unsigned int,long)" (?DialogProc@@YGHPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__RegisterClassW@4 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__CreateWindowExW@48 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__ShowWindow@8 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__CreateDialogParamW@20 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__DialogBoxParamW@20 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__EndDialog@8 외부 기호(참조 위치: "int __stdcall DialogProc(struct HWND__ *,unsigned int,unsigned int,long)" (?DialogProc@@YGHPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__GetDlgItem@8 외부 기호(참조 위치: "int __stdcall DialogProc(struct HWND__ *,unsigned int,unsigned int,long)" (?DialogProc@@YGHPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__BeginPaint@8 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__EndPaint@8 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__InvalidateRgn@12 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__GetWindowTextW@12 외부 기호(참조 위치: "int __stdcall DialogProc(struct HWND__ *,unsigned int,unsigned int,long)" (?DialogProc@@YGHPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__MessageBoxW@16 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__LoadCursorW@8 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__LoadIconW@8 외부 기호(참조 위치: _WinMain@16 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__GetOpenFileNameW@4 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__GetSaveFileNameW@4 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__ChooseColorW@4 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+소스2.obj : error LNK2019: __imp__ChooseFontW@4 외부 기호(참조 위치: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\lg\source\repos\Dialog\Debug\Dialog.exe : fatal error LNK1120: 31개의 확인할 수 없는 외부 참조입니다.

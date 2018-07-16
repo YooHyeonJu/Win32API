@@ -1,0 +1,6 @@
+﻿  addressbook.cpp
+c:\users\lg\source\repos\odbc\odbc\addressbook.cpp(103): warning C4101: 'pnmh' :참조되지 않은 지역 변수입니다.
+c:\users\lg\source\repos\odbc\odbc\addressbook.cpp(104): warning C4101: 'nGetSel' :참조되지 않은 지역 변수입니다.
+c:\users\lg\source\repos\odbc\odbc\addressbook.cpp(139): warning C4101: 'Key' :참조되지 않은 지역 변수입니다.
+c:\users\lg\source\repos\odbc\odbc\addressbook.cpp(171): warning C4101: 'Key' :참조되지 않은 지역 변수입니다.
+  ODBC.vcxproj -> C:\Users\lg\source\repos\ODBC\Debug\ODBC.exe
